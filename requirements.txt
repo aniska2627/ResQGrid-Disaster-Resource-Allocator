@@ -1,0 +1,3 @@
+
+# ResQGrid uses Python standard-library modules only.
+# No pip installation is required.
